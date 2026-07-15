@@ -1,6 +1,6 @@
 # AI-Powered Debt Relief & Financial Recovery Platform
 
-recoveryledger-hazel.vercel.app
+website: recoveryledger-hazel.vercel.app
 
 Full-stack app: **FastAPI + SQLite + SQLAlchemy** backend, **React (Vite)** frontend,
 **Google Gemini API** for AI-generated negotiation letters, and a rule-based
