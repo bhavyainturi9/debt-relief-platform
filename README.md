@@ -108,8 +108,8 @@ npm install
 npm run dev
 ```
 
-- App runs at: http://localhost:5173
-- It calls the backend at `http://localhost:8000` (configured in `src/api.js`).
+- App runs at: recoveryledger-hazel.vercel.app
+- It calls the backend at `https://recovery-ledger.onrender.com` (configured in `src/api.js`).
 
 ---
 
